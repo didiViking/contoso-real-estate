@@ -23,7 +23,6 @@
   "license": "MIT",
   "workspaces": [
     "packages/*",
-    "contoso-real-estate",
     "!packages/api-legacy"
   ],
   "engines": {
